@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "430372348962",
+    "project_id": "missingpersonfinder-68ee6",
+    "storage_bucket": "missingpersonfinder-68ee6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:430372348962:android:a28f47ad57e7100ed5967b",
+        "android_client_info": {
+          "package_name": "com.example.missingpersonfinder"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "430372348962-65qgr7pjifr8mc77obta49sed6tis6rd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBavOPDfdTDLHfxQo24YY6pivXmks7uZ98"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "430372348962-65qgr7pjifr8mc77obta49sed6tis6rd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:430372348962:android:8e0e57edd739d2d0d5967b",
+        "android_client_info": {
+          "package_name": "com.hemantpatel.mpfapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "430372348962-65qgr7pjifr8mc77obta49sed6tis6rd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBavOPDfdTDLHfxQo24YY6pivXmks7uZ98"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "430372348962-65qgr7pjifr8mc77obta49sed6tis6rd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
