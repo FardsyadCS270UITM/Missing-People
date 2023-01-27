@@ -294,7 +294,7 @@ public class FormActivity extends AppCompatActivity {
             x++;
         }
 
-        if (mGroup.getCheckedRadioButtonId() != R.id.rdo_male && mGroup.getCheckedRadioButtonId() != R.id.rdo_female && mGroup.getCheckedRadioButtonId() != R.id.rdo_other) {
+        if (mGroup.getCheckedRadioButtonId() != R.id.rdo_male && mGroup.getCheckedRadioButtonId() != R.id.rdo_female /*&& mGroup.getCheckedRadioButtonId() != R.id.rdo_other*/) {
             Toast.makeText(FormActivity.this, "Please Select Gender!", Toast.LENGTH_SHORT).show();
             return false;
         }

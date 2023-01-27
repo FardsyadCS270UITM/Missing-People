@@ -142,14 +142,14 @@
                     android:text="@string/female"
                     tools:targetApi="lollipop" />
 
-                <RadioButton
+<!--                <RadioButton
                     android:id="@+id/rdo_other"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:layout_weight="1"
                     android:buttonTint="@color/mycolor1"
                     android:text="@string/other"
-                    tools:targetApi="lollipop" />
+                    tools:targetApi="lollipop" />-->
 
             </RadioGroup>
 
