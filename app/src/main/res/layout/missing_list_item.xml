@@ -103,7 +103,7 @@
             android:id="@+id/see_detail"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:backgroundTint="#65680D"
+            android:backgroundTint="@color/teal_700"
             android:text="see Detail"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toEndOf="@+id/missing_person_image"
