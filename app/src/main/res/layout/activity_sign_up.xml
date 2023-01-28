@@ -9,10 +9,10 @@
 
     <ImageView
         android:id="@+id/imageView3"
-        android:layout_width="110sp"
-        android:layout_height="110sp"
+        android:layout_width="162sp"
+        android:layout_height="162sp"
         android:padding="10sp"
-        android:src="@mipmap/logo"
+        android:src="@mipmap/ic_launcher_foreground"
         app:layout_constraintBottom_toTopOf="@+id/textInputLayout3"
         app:layout_constraintEnd_toEndOf="@+id/textInputLayout3"
         app:layout_constraintStart_toStartOf="@+id/textInputLayout3"
