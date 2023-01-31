@@ -80,8 +80,6 @@ public class EditActivity extends AppCompatActivity {
             mGroup.check(R.id.male_rdo_btn);
         } else if (mOldData.getGender().equals("Female")) {
             mGroup.check(R.id.female_rdo_btn);
-        } else {
-            mGroup.check(R.id.other_rdo_btn);
         }
     }
 
